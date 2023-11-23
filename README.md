@@ -1,5 +1,4 @@
 # 机器学习中多分类问题中的数值方法
----
 ## 创建 python 虚拟环境
 
 ### 1. Windows 安装 Anaconda3
@@ -27,7 +26,9 @@
 - Option1: 直接下载 `.zip` 并解压
 
 - Option2: Clone 项目
-`git clone git@github.com:SimonHanYANG/lris_MachineLearning_Classification.git`
+```bash
+git clone git@github.com:SimonHanYANG/lris_MachineLearning_Classification.git
+```
 
 ### 3. 创建虚拟环境
 
@@ -68,7 +69,6 @@ pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple
 
 - `others*.py`: 各种方法运行代码
 
----
 ## 数据可视化
 
 ### 1. Scatter Plot
@@ -77,7 +77,6 @@ pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple
 ### 2. Pair Plot
 ![data_visualization](./data_visualization/pairplot.png "Data Visualization")
 
----
 ## Results
 
 ### 1. Logic Regression
